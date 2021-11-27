@@ -70,13 +70,8 @@ devices = ['Samsung Galaxy A10','Samsung Galaxy A10s','Samsung Galaxy A30','Sams
 version = ['9.0' , "8.9" , "8.4" , "9.2" , "9.1" , "9.3" , "8.6" , "7.9"]
 #-------- databases
 
-apis = [[3994561,"08e30b4a7d6a518f67551af9181663c1"],
-        [3348973,"33abec629887b96d2cc8e7f0f18a9aac"],
-        [3292529,"64171323a2789cf3484c5bd711f5df6e"],
-        [3796866,"3cb7c0c356e92380851a6eb8b16165f1"],
-        [3680948,"c34e4abd69b50710f4df2c1651c88029"],
-        [3613957 ,"a9758011abd05bb51defd3f137250b64"],
-        [3249226,"e28c14919f9fe08615e0ac6f67b2d13b"]
+apis = [[1585904,"56bdc4fd05def5c28ef62261b85b1ee6"],
+        [164723,"dabd3508016970f6c78c43ab208415da"]
 
 ]
 #--------------
